@@ -76,12 +76,23 @@ Start the app in the `dev` environment. This starts the renderer process in [**h
 ```bash
 $ yarn dev
 ```
-
-If you don't need autofocus when your files was changed, then run `dev` with env `START_MINIMIZED=true`:
+## check and improve coding style
 
 ```bash
-$ START_MINIMIZED=true yarn dev
+$ yarn lint
 ```
+
+```bash
+$ yarn lint-fix
+```
+
+
+## build application
+
+```bash
+$ yarn build
+```
+
 
 ## Packaging for Production
 
