@@ -50,11 +50,7 @@ A boilerplate for Scalable Cross-Platform Desktop Apps based on  <a href="http:/
 
 </div>
 
-<div align="center">
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
-
-</div>
 
 ## Install
 
